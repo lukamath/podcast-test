@@ -1,4 +1,4 @@
-name: Generate Podcast FeedsKaz
+name: Generate Podcast FeedsK
 on: [push]
 jobs: 
   build:
